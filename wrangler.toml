@@ -1,0 +1,6 @@
+name = "krot-api"
+main = "src/index.js"
+compatibility_date = "2026-11-24"
+
+[ai]
+binding = "AI"
